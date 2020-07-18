@@ -1,3 +1,3 @@
-# :octact: xreaad !
+# :octocat: xreaad !
 
 Hi ... 
