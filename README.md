@@ -1,4 +1,4 @@
-# 01111000 01110010 01100101 01100001 01100001 01100100 :fire:
+## 01111000 01110010 01100101 01100001 01100001 01100100 :fire:
 
 #### Hi I'm Riadh Chelbi 18 years old I'm a computer science student passionate with knowledge, technology and programming languages (AI, ML & Deep Learning) :blush:
 #### I am front-end web developer (now) :star:
