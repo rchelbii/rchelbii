@@ -10,9 +10,9 @@ __I write script for anything that takes a lot of time in my laptop (automation)
 
 </a>
 <br />
-
+<p align="center" width="100%" height="170px">
 [![trophy](https://github-profile-trophy.vercel.app/?username=xreaad)](https://github.com/ryo-ma/github-profile-trophy)
-
+</p>
 
 
 
