@@ -9,6 +9,9 @@ __I write script for anything that takes a lot of time in my laptop (automation)
   <img align="center" width="100%" height="170px" src="https://github-readme-stats.vercel.app/api?username=xreaad&show_icons=true&include_all_commits=true" alt="xreaad's github stats" />
 
 </a>
+<br />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=xreaad)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
