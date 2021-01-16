@@ -1,3 +1,7 @@
+<style>
+  .skills { display:flex;}
+</style>
+
 ## 01111000 01110010 01100101 01100001 01100001 01100100 :fire:  <br>
 
 
@@ -16,9 +20,12 @@
 </div>
 
 <div align="center">
-  
- # My Skills <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
- 
+   # My Skills <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+
+  </div>
+
+<div class="skills" align="center">
+   
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
