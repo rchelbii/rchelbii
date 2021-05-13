@@ -1,8 +1,6 @@
 
 
-<div style="position: absolute; height:100vh; width:100%;">
-  <img style="height:100vh; width:100%;" src="https://github.com/xreaad/xreaad/blob/master/download.jpeg" />
-</div>
+<div style="background-image: url('https://github.com/xreaad/xreaad/blob/master/download.jpeg'">
 
 ## Riadh Chelbi (xreaad) :fire:  <br>
 
@@ -38,3 +36,4 @@
 
 
 
+</div>
