@@ -1,6 +1,6 @@
 
 
-<div style="position: relative; height:100vh; width:100%;">
+<div style="position: absolute; height:100vh; width:100%;">
   <img style="height:100vh; width:100%;" src="https://github.com/xreaad/xreaad/blob/master/download.jpeg" />
 </div>
 
