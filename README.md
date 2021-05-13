@@ -1,9 +1,8 @@
 
 
-<div style="background-image: url('https://github.com/xreaad/xreaad/blob/master/download.jpeg'">
+<div style="background-image: url('https://raw.githubusercontent.com/xreaad/xreaad/master/download.jpeg'); background-size: cover; background-repeat: no-repeat; background-position: center;">
 
 ## Riadh Chelbi (xreaad) :fire:  <br>
-
 
 
 <p align="center">
