@@ -22,12 +22,12 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 
   <img align="right" alt="GIF" src="https://github.com/xreaad/xreaad/blob/master/code.gif?raw=true" width="500" height="320" />
-- :telescope: I’m currently working on [Qget](https://github.com/xreaad/Qget) <br>
-- :seedling: I'm looking to collaborate on open source projects <br>
-- :seedling: I'm looking to get an internship at a tech company <br>
-- 💬 Ask me about anything, I am happy to help <br>
-- 📫 How to reach me: [@xreaad](https://twitter.com/xreaad) <br>
-- 📝 [Resume]()
+* :telescope: I’m currently working on [Qget](https://github.com/xreaad/Qget).
+* :seedling: I'm looking to collaborate on open source projects.
+* :seedling: I'm looking to get an internship at a tech company.
+* 💬 Ask me about anything, I am happy to help.
+* 📫 How to reach me: [@xreaad](https://twitter.com/xreaad).
+* 📝 [Resume]()
 
 
 **Languages and Tools:**  
