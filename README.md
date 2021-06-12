@@ -2,8 +2,8 @@
 <!-- <a href="">
   <img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a> -->
-<a href="https://twitter.com/xreaad">
-  <img align="left" alt="riadh chelbi | xreaad | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://twitter.com/rchelbii">
+  <img align="left" alt="riadh chelbi | rchelbii | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <!-- <a href="https://www.linkedin.com/in/">
   <img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -12,22 +12,22 @@
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a> -->
 
-<img src="https://komarev.com/ghpvc/?username=xreaad" alt="xreaad" />
+<img src="https://komarev.com/ghpvc/?username=rchelbii" alt="rchelbii" />
 
 <br />
 
-Hi, I'm [Riadh Chelbi](https://xreaad.github.io) also known as <strong>xreaad</strong>, a passionate self-taught Full Stack developer & Junior data scientist, I am building things using (deep + machine) learning . My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Riadh Chelbi](https://rchelbii.github.io) also known as <strong>xreaad</strong>, a passionate self-taught Full Stack developer & Junior data scientist, I am building things using (deep + machine) learning . My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/xreaad/xreaad/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/rchelbii/rchelbii/blob/master/code.gif?raw=true" width="500" height="320" />
 
-- :telescope: I’m currently working on [Qget](https://github.com/xreaad/Qget)
+- :telescope: I’m currently working on [Qget](https://github.com/rchelbii/Qget)
 - :seedling: I'm looking to collaborate on open source projects
 - :seedling: I'm looking to get an internship at a tech company
 - 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: [@xreaad](https://twitter.com/xreaad)
+- 📫 How to reach me: [@rchelbii](https://twitter.com/rchelbii)
 - [Resume]()
 
 
