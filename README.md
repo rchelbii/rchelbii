@@ -23,7 +23,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
   <img align="right" alt="GIF" src="https://github.com/rchelbii/rchelbii/blob/master/code.gif?raw=true" width="500" height="320" />
 
-- :telescope: I’m currently working on [Qget](https://github.com/rchelbii/Qget)
+- :telescope: I’m currently working on [qet](https://github.com/rchelbii/qet)
 - :seedling: I'm looking to collaborate on open source projects
 - :seedling: I'm looking to get an internship at a tech company
 - 💬 Ask me about anything, I am happy to help
