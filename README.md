@@ -29,7 +29,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - :seedling: I'm looking to get an internship at a tech company
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: [@rchelbii](https://twitter.com/rchelbii)
-- [Resume](https://rchelbii.github.io/resume.html)
+- [Resume](https://rchelbii.github.io/src/resume.html)
 
 
 **Languages and Tools:**  
