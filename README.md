@@ -27,7 +27,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 - :telescope: I’m currently working on [qet](https://github.com/rchelbii/qet)
 - :seedling: I'm looking to collaborate on open source projects
-- :seedling: I'm looking to get an internship at a tech company
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: [@rchelbii](https://twitter.com/rchelbii)
 - [Resume](https://rchelbii.github.io/src/resume.html)
