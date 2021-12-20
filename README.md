@@ -18,7 +18,7 @@
 
 <br />
 
-Hi, I'm [Riadh Chelbi](https://rchelbii.github.io) also known as <strong>(@rchelbii)</strong>, a passionate self-taught Software developer & Junior data scientist, I am building things using (deep + machine) learning . My passion for software lies with dreaming up ideas and making them come true. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Riadh Chelbi](https://rchelbii.github.io) also known as <strong>(@rchelbii)</strong>, a passionate self-taught Software developer & Junior data scientist, I am building things using (machine && deep) learning . My passion for software lies with dreaming up ideas and making them come true. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
