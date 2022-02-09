@@ -32,7 +32,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 📫 How to reach me: [@rchelbii](https://twitter.com/rchelbii)
 - [Resume](https://rchelbii.github.io/src/resume.html)
 
-
+<!--
 **Languages and Tools:**  
 
 
@@ -55,7 +55,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 
-<!-- If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
+ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a> -->
 
