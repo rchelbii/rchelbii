@@ -30,7 +30,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - :telescope: I’m currently working on [qet](https://github.com/rchelbii/qet)
 - :seedling: I'm looking to collaborate on open source projects
 - 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: [@rchelbii](https://twitter.com/rchelbii)
+- 📫 How to reach me: <a href="mailto:rchelbii00@gmail.com">Gmail</a>
 - [Resume](https://rchelbii.github.io/src/resume.html)
 
 <!--
