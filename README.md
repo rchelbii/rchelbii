@@ -16,7 +16,6 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 
 
-- :telescope: I’m currently working on [qet](https://github.com/rchelbii/qet)
 - :seedling: I'm looking to collaborate on open source projects
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: <a href="mailto:rrchelbi@gmail.com">Gmail</a>
