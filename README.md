@@ -10,7 +10,7 @@
 
 <br />
 
-Hi, I'm [Riadh Chelbi](https://rchelbii.github.io) also known as <strong>(@rchelbii)</strong> online, , I am building things using Python, C, && JS/TS. My passion for software lies with dreaming up ideas and making them come true. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm Riadh Chelbi also known as <strong>(@rchelbii)</strong> online, , I am building things using Python, C, && JS/TS. My passion for software lies with dreaming up ideas and making them come true. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
